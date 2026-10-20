@@ -95,11 +95,6 @@ body {
     letter-spacing: 0.3px;
 }
 
-.site-subtitle {
-    font-size: 12px;
-    color: #dcebfa;
-    text-align: left;
-}
 
 /* Меню на мобильном: вертикальный список на всю ширину */
 .main-nav {
